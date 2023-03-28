@@ -21,7 +21,7 @@ Make sure AutoHotkey 1.1 is installed first:
 
 https://www.autohotkey.com/download/ahk-install.exe
 
-Download and run the ''VR Desktop View Blocker.ahk' app:
+Download and run the 'VR.Desktop.View.Blocker.ahk' app:
 
 https://github.com/TimberAngry/VR-Desktop-View-Blocker/releases
 
