@@ -17,6 +17,10 @@ It is an Autohotkey based app that creates a very large 'always on top' window t
 
 # How is it used?
 
-Install AutoHotkey 1.1: https://www.autohotkey.com/download/ahk-install.exe
+Make sure AutoHotkey 1.1 is installed first:
+https://www.autohotkey.com/download/ahk-install.exe
 
-Download the ''VR Desktop View Blocker.ahk' app: https://github.com/TimberAngry/VR-Desktop-View-Blocker/releases
+Download and run the ''VR Desktop View Blocker.ahk' app:
+https://github.com/TimberAngry/VR-Desktop-View-Blocker/releases
+
+Best to run this app first, and then launch your game in the VR headset, since you won't be able to see anything on your desktop screen when the blocker is up. Alternately, you can run your game on the desktop, then bring up the blocker, and use Alt-Tab to make sure your game is selected as the active window. The name of the currently active window will show on blocker interface.
