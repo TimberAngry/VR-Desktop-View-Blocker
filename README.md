@@ -12,8 +12,10 @@ Commonly, the solution to this issue is to minimise the desktop view window, how
 Introducing VR Desktop View Blocker: https://github.com/TimberAngry/VR-Desktop-View-Blocker
 
 What is this and how does it work?
+
 It is an Autohotkey based app that creates a very large 'always on top' window that covers the entire screen. This allows the game to remain as the 'active' window, without actually showing on the screen - and if it isn't showing on screen, performance in VR is improved. The game performs as if the desktop view was minimised, but all aspects of the game, including audio and inputs, work perfectly fine.
 
 How is it used?
+
 Install AutoHotkey 1.1: https://www.autohotkey.com/download/ahk-install.exe
 Download the ''VR Desktop View Blocker.ahk' app: https://github.com/TimberAngry/VR-Desktop-View-Blocker/releases
