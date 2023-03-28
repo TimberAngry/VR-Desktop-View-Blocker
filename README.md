@@ -1,4 +1,4 @@
-# VR-Desktop-View-Blocker
+# VR Desktop View Blocker
 
 Most PCVR apps and games render a 'desktop view' or 'mirror view' in a window, and in almost all cases this negatively effects the performance of the game in VR.
 
