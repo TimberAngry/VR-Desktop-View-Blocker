@@ -18,4 +18,5 @@ It is an Autohotkey based app that creates a very large 'always on top' window t
 # How is it used?
 
 Install AutoHotkey 1.1: https://www.autohotkey.com/download/ahk-install.exe
+
 Download the ''VR Desktop View Blocker.ahk' app: https://github.com/TimberAngry/VR-Desktop-View-Blocker/releases
